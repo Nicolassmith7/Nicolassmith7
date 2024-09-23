@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fulldevsmith)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github/Nicolassmith7)
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolassmith7&show_icons=true&theme=dracula)
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolassmith7&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassmith7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassmith7&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### "Tecnologias estudadas, sempre em processo de aprimoramento."
 
