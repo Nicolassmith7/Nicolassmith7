@@ -3,10 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fulldevsmith)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fulldevsmith)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github/Nicolassmith7)
+[![GitHub](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://playstation/nicolas_castro13)
+
 
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolassmith7&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassmith7&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassmith7&hide_progress=true/ring_color&theme=dark)
+
 
 ### "Tecnologias estudadas, sempre em processo de aprimoramento."
 
@@ -25,6 +28,8 @@
            <img align="center" alt="Ubuntu"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
            <img align="center" alt="MariaDb"src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
            <img align="center" alt="MariaDb"src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+          <img align="center" alt="MariaDb"src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit" />
+          
 
 
 </div><br/>
