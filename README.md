@@ -6,10 +6,10 @@
 [![GitHub](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://playstation/nicolas_castro13)
 ![GitHub](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicolassmith7&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolassmith7&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolassmith7&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassmith7&hide_progress=true/ring_color&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolassmith7&hide_progress=true/ring_color&theme=dark)                        ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolassmith7&show_icons=true&theme=tokyonight)
 
 
 ### "Tecnologias estudadas, sempre em processo de aprimoramento."
@@ -38,3 +38,20 @@
 </div><br/>
 
 **"A tecnologia transforma vidas, conectando ideias e criando novas possibilidades."**
+
+
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,github,linux,bootstrap,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
